@@ -21,11 +21,21 @@ A React Native mobile application that allows users to manage and browse through
   - Responsive design for various screen sizes
 
 ## Installation
-1. Clone the repository
-2. Install dependencies:
-```bash
-npm install
-## Peferred OS and devide:
+
+### Prerequisites
+- Node.js installed
+- VS Code or preferred code editor
+- Android Studio installed
+- Expo CLI installed globally
+
+### Setup Steps
+
+1. Clone the Repository
+  ```bash
+  git clone [repository-url]
+  cd [project-name] ```
+
+### Peferred OS and devide:
 
 OS:android
 Device: Pixel 6 (6.4"Size)
