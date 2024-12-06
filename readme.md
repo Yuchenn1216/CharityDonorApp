@@ -1,3 +1,30 @@
+# Charity Collection Mobile App
+
+A React Native mobile application that allows users to manage and browse through their charity collections. Users can create accounts, log in, and maintain their personal charity collections with detailed information.
+
+## Features
+
+- User Authentication
+  - Register new account
+  - Login with email and password
+  - Secure password storage
+
+- Charity Management
+  - Create and manage charity collections
+  - Add, edit, and delete charities within collections
+  - Filter charities by categories
+  - View detailed charity information
+
+- User Interface
+  - Clean and intuitive navigation using Stack and Tab Navigation
+  - Custom components for consistent UI/UX
+  - Responsive design for various screen sizes
+
+## Installation
+1. Clone the repository
+2. Install dependencies:
+```bash
+npm install
 ## Peferred OS and devide:
 
 OS:android
