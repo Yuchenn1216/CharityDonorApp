@@ -35,11 +35,17 @@ A React Native mobile application that allows users to manage and browse through
    git clone <repository-url>
    
 3. Install Dependencies
+   ```bash
    npm install
-4. Start the Project
+   
+5. Start the Project
+   ```bash
    npm install
+
+   ```bash
    expo start
-6. Setup Android Environment
+   
+7. Setup Android Environment
   - Open Android Studio
   - Ensure an Android emulator is running
   - Press 'a' in the terminal running expo to open the app in Android emulator
