@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, View, StyleSheet, TouchableOpacity, FlatList } from 'react-native';
+import { Image, View, StyleSheet, TouchableOpacity, FlatList,Platform } from 'react-native';
 import AppScreen from '../components/AppScreen';
 import AppColors from '../config/AppColors';
 import AppLogo from '../components/AppLogo';
