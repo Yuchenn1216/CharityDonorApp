@@ -39,8 +39,9 @@ A React Native mobile application that allows users to manage and browse through
    npm install
    
 5. Start the Project
-   ```bash
+   ` ``` `bash
    expo start
+   ` ``` `
 
    or
    
