@@ -3,9 +3,9 @@
 A React Native mobile application that allows users to manage and browse through their charity collections. Users can create accounts, log in, and maintain their personal charity collections with detailed information.
 
 ## Demo Video 
-
-```bash
+``` bash 
 https://youtube.com/shorts/HHNGdOHrCPs?feature=share
+```
 
 ## Features
 
@@ -39,15 +39,15 @@ https://youtube.com/shorts/HHNGdOHrCPs?feature=share
    ```bash
    git clone <repository-url>
    
-3. Install Dependencies
+2. Install Dependencies
    ```bash
    npm install
    
-5. Start the Project
+3. Start the Project
    ```bash
    expo start
    
-7. Setup Android Environment
+4. Setup Android Environment
   - Open Android Studio
   - Ensure an Android emulator is running
   - Press 'a' in the terminal running expo to open the app in Android emulator
