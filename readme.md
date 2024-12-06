@@ -39,14 +39,8 @@ A React Native mobile application that allows users to manage and browse through
    npm install
    
 5. Start the Project
-   ` ``` `bash
-   expo start
-   ` ``` `
-
-   or
-   
    ```bash
-   npx expo start
+   expo start
    
 7. Setup Android Environment
   - Open Android Studio
