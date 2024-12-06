@@ -2,6 +2,11 @@
 
 A React Native mobile application that allows users to manage and browse through their charity collections. Users can create accounts, log in, and maintain their personal charity collections with detailed information.
 
+## Demo Video 
+
+```bash
+https://youtube.com/shorts/HHNGdOHrCPs?feature=share
+
 ## Features
 
 - User Authentication
