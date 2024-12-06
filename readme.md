@@ -31,16 +31,20 @@ A React Native mobile application that allows users to manage and browse through
 ### Setup Steps
 
 1. Clone the Repository
-  ```bash
-  git clone [repository-url]
-  cd [project-name] ```
+2. Install Dependencies
+   ```npm install
+4. Start the Project
+5. Setup Android Environment
+  - Open Android Studio
+  - Ensure an Android emulator is running
+  - Press 'a' in the terminal running expo to open the app in Android emulator
+  - Or press 'i' in the terminal if you prefer to use iOS simulator
 
 ### Peferred OS and devide:
-
 OS:android
 Device: Pixel 6 (6.4"Size)
 
-## Description for task2
+### Description for tests
 
 The first test, "AppError contains text," is a unit test because it verifies the rendering and styling of the AppError component in isolation. It doesn't rely on external systems,like system or integration test. It ensures consistent text display with specified font attributes across platforms.
 
