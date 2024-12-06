@@ -31,10 +31,15 @@ A React Native mobile application that allows users to manage and browse through
 ### Setup Steps
 
 1. Clone the Repository
-2. Install Dependencies
-   ```npm install
+   ```bash
+   git clone <repository-url>
+   
+3. Install Dependencies
+   npm install
 4. Start the Project
-5. Setup Android Environment
+   npm install
+   expo start
+6. Setup Android Environment
   - Open Android Studio
   - Ensure an Android emulator is running
   - Press 'a' in the terminal running expo to open the app in Android emulator
