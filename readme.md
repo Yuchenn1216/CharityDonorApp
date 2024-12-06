@@ -40,9 +40,6 @@ A React Native mobile application that allows users to manage and browse through
    
 5. Start the Project
    ```bash
-   npm install
-
-   ```bash
    expo start
    
 7. Setup Android Environment
